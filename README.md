@@ -1,5 +1,5 @@
 # minidocker
-Docker container with Apache + PHP 8.3, mysqli, pdo, sqlite3, ssh2, xdebug
+Docker container with Apache + PHP 8.3, mysqli, pdo, sqlite3, cURL, ssh2, xdebug
 
 
 It is minimal docker setup for PHP development.
