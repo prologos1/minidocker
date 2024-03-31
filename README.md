@@ -15,5 +15,5 @@ mysql and phpmyadmin with latest version
 
 ## usage
 The "src" folder contains your own sandbox scripts  
-🚀 To start, open your browser: ![http://localhost:9000/](http://localhost:9000/)
+🚀 To start, open your browser: http://localhost:9000/
  
