@@ -11,9 +11,11 @@ docker-compose up --build
 ```
 
 ## configuration
-3306 port for mysql connection with empty password for login with root 
-build include phpmyadmin on page http://localhost:9001/
-mysql and phpmyadmin with latest version
+3306 port for mysql connection with empty password for root login.
+
+The build includes phpMyAdmin on page http://localhost:9001/
+
+> Note: mysql and phpMyAdmin with latest version
 
 ## usage
 The "src" folder contains your own sandbox scripts  
