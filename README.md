@@ -1,5 +1,7 @@
 # minidocker
-Docker container with Apache + PHP 8.3, mysqli, pdo, ssh2, xdebug, sqlite3
+Docker container with Apache + PHP 8.3, mysqli, pdo, sqlite3, ssh2, xdebug
+
+
 It is minimal docker setup for PHP development.
 
 The command builds images before starting the container, and starts all services that are defined in the docker-compose.yml file (the command creates and starts containers).
